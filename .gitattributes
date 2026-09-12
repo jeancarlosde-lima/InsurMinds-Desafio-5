@@ -1,0 +1,3 @@
+# PDFs sao binarios: impede a conversao de fim de linha (core.autocrlf),
+# que corromperia o relatorio tecnico em clones no Windows e em git archive.
+*.pdf binary

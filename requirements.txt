@@ -1,0 +1,9 @@
+requests==2.32.3
+pydantic==2.9.2
+python-dotenv==1.0.1
+pandas==2.2.3
+streamlit==1.39.0
+langchain==0.3.9
+langchain-core==0.3.21
+langchain-google-genai==2.0.4
+reportlab==4.5.1

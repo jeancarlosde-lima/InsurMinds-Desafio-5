@@ -1,0 +1,17 @@
+id_segurado;nome;cidade;uf;latitude;longitude;ramo;apolice;canal;observacao
+SEG-001;Ana Ribeiro;São Paulo;SP;-23.55;-46.63;residencial;RES-2026-0011;whatsapp;Casa térrea com garagem descoberta
+SEG-002;Bruno Tavares;São Paulo;SP;-23.55;-46.63;automovel;AUT-2026-0042;sms;Veiculo estacionado em via publica
+SEG-003;Carla Menezes;São Paulo;SP;-23.55;-46.63;empresarial;EMP-2026-0007;email;Loja de eletronicos no centro
+SEG-004;Diego Almeida;Itaquaquecetuba;SP;-23.49;-46.35;residencial;RES-2026-0020;whatsapp;Imovel próximo a córrego
+SEG-005;Elaine Souza;Itaquaquecetuba;SP;-23.49;-46.35;automovel;AUT-2026-0055;whatsapp;Utiliza o carro para trabalho
+SEG-006;Fabio Nogueira;Santos;SP;-23.96;-46.33;residencial;RES-2026-0031;email;Apartamento em região costeira
+SEG-007;Gabriela Lima;Santos;SP;-23.96;-46.33;empresarial;EMP-2026-0014;email;Galpão logistico no porto
+SEG-008;Henrique Dias;Ribeirão Preto;SP;-21.17;-47.81;agricola;AGR-2026-0003;whatsapp;Cana-de-açúcar, 180 hectares
+SEG-009;Isabela Moraes;Ribeirão Preto;SP;-21.17;-47.81;residencial;RES-2026-0044;sms;Casa com área de lazer descoberta
+SEG-010;Joao Pedro Farias;Ponta Grossa;PR;-25.09;-50.16;agricola;AGR-2026-0009;email;Trigo em fase de florescimento
+SEG-011;Karina Vieira;Ponta Grossa;PR;-25.09;-50.16;automovel;AUT-2026-0061;sms;Veiculo zero quilômetro
+SEG-012;Luis Fernando Rocha;Campinas;SP;-22.90;-47.06;residencial;RES-2026-0052;whatsapp;Condominio horizontal
+SEG-013;Marina Castro;Campinas;SP;-22.90;-47.06;agricola;AGR-2026-0012;whatsapp;Citricultura, 60 hectares
+SEG-014;Nelson Barbosa;Sorriso;MT;-12.55;-55.72;agricola;AGR-2026-0015;email;Soja em pré-colheita
+SEG-015;Olivia Prado;Curitiba;PR;-25.43;-49.27;empresarial;EMP-2026-0021;email;Centro de distribuição
+SEG-016;Paulo Henrique Matos;Curitiba;PR;-25.43;-49.27;automovel;AUT-2026-0073;whatsapp;Frota de dois veículos

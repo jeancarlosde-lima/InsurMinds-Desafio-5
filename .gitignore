@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+outputs/*.json
+outputs/*.csv
+!outputs/.gitkeep
+.ipynb_checkpoints/
+.DS_Store
